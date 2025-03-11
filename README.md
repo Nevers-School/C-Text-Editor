@@ -1,6 +1,6 @@
 # Kilo Text Editor
 
-Kilo is a small, simple, and lightweight text editor written in C. It is designed to be easy to understand and modify, making it an excellent project for learning about text editor internals and C programming.
+Kilo is a small, simple, and lightweight text editor written in C. 
 
 ## Features
 
