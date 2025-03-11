@@ -26,10 +26,6 @@ make
 - Search: `Ctrl-F`
 - Quit: `Ctrl-Q`
 
-## License
-
-Kilo is released under the MIT License. See `LICENSE` for more details.
-
 ## Acknowledgements
 
 Kilo is inspired by the [kilo](https://github.com/antirez/kilo) text editor created by Salvatore Sanfilippo.
